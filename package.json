@@ -13,6 +13,9 @@
             "deebot": "deebot.js"
         }
     },
+    "keywords": [
+        "node-red"
+    ],
     "dependencies": {
         "ecovacs-deebot": "^0.4.4",
         "node-machine-id": "^1.1.12"
